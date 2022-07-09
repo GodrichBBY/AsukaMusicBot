@@ -172,8 +172,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/zaynworld0"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/callmesadie"),
             ]
         ]
     )
@@ -209,8 +209,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/zaynworld0"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/callmesadie"),
             ]
         ]
     )
@@ -223,8 +223,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/zaynworld0"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/callmesadie"),
             ]
         ]
     )
@@ -275,8 +275,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛs", url=f"https://t.me/zaynworld0"),
+                InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/callmesadie"),
             ]
         ]
     )
