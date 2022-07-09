@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/0e61a0eee04d1f8f56c82.jpg",
     "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Sumit9969/ASUKA-MUSIC-BOT",
+    "repository": "https://github.com/GodrichBBY/AsukaMusicBot",
     "stack": "container",
     "env": {
         "API_ID": {
