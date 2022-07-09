@@ -37,9 +37,9 @@ async def start_(client: Client, message: Message):
         photo=f"https://te.legra.ph/file/3752041b671e0afc6ada2.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━
 ✨ ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
-ʙᴏᴛ ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ...
+ʙᴏᴛ ᴀɴᴅ ɴᴏ ʟᴀɢ ɪssᴜᴇ ᴡɪᴛʜ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ GodRich...
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)...
+ᴅᴍ ᴛᴏ ᴍʏ ᴏᴡɴᴇʀ [Zayn](https://t.me/Zaynalwayshelpyou)...
 ━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
     [
@@ -47,15 +47,15 @@ async def start_(client: Client, message: Message):
             InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-            InlineKeyboardButton("📝 ᴄᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/%F0%9D%99%B2%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85s-04-06"),
-            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Simple_Mundaa")
+            InlineKeyboardButton("📝 ᴄᴏᴍᴍᴀɴᴅs", url="https://telegra.ph/%F0%9D%99%B2%E1%B4%8F%E1%B4%8D%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85s-07-09"),
+            InlineKeyboardButton("⚕️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/GodRich")
         ],
         [
-            InlineKeyboardButton("👥 ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url="https://t.me/TechQuardSupport"),
-            InlineKeyboardButton("📣 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url="https://t.me/TechQuard")
+            InlineKeyboardButton("👥 ᴏғғɪᴄɪᴀʟ ɢʀᴏᴜᴘ", url="https://t.me/zaynworld0"),
+            InlineKeyboardButton("📣 ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url="https://t.me/CallMeSadie")
         ],
         [
-            InlineKeyboardButton("💠 ʏᴏᴜᴛᴜʙᴇ 💠", url="https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
+            InlineKeyboardButton("💠 Owner 💠", url="zaynalwayshelpyou")
         ]
    
      ]
@@ -71,8 +71,8 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
              [
             [
-                InlineKeyboardButton(text="👥 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/TechQuardSupport"),
-                InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TechQuard"),
+                InlineKeyboardButton(text="👥 ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Godrich"),
+                InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Callmesadie"),
             ]
         ]
      ),
@@ -88,7 +88,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴊᴏɪɴ ᴛʜᴇsᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", url=f"https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw")
+                        "ᴊᴏɪɴ ᴛʜᴇsᴇ ᴄʜᴀɴɴᴇʟ", url=f"https:t.me//Callmesadie")
                 ]
             ]
         ),
